@@ -11,7 +11,7 @@ namespace Tyuiu.chernyhim.Sprint0.Task2.V0.Test
             var name = "John";
             var res = DataService.GetMessage(name);
 
-            Assert.AreEqual("Hello..., John!", res);
+            Assert.AreEqual("Hello.., John!", res);
         }
     }
 }

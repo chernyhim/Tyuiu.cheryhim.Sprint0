@@ -4,7 +4,7 @@
     {
         public static string GetMessage(string name)
         {
-            return $"Hello..., {name}!";
+            return $"Hello.., {name}!";
         }
     }
 }
